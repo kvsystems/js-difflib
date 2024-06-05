@@ -1,0 +1,11 @@
+{
+  "name": "@kv-systems/js-difflib",
+  "version": "1.0.3",
+  "description": "A javascript library for diffing text and generating corresponding HTML views",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kvsystems/js-difflib.git"
+  },
+  "license": "BSD"
+}
